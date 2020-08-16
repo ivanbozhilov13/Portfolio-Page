@@ -5,11 +5,13 @@ body{
     margin: 0;
     padding: 0;
 }
+
 /*Global Styling*/
 .container{
     overflow: hidden;
     margin: auto;
 }
+
 /*Styling the header, navbar and floating my name to the left side*/
 #header{
     background: #35424a;
@@ -58,6 +60,7 @@ body{
     font-weight: bold;
     background: #ddd;
 }
+
 /*Styling the #about section*/
 #about{
     padding-top: 250px;
@@ -80,6 +83,7 @@ body{
     font-size: 34px;
     font-weight: bold;
 }
+
 /*Styling the second section with #my-projects*/
 #my-projects{
     background-color: dodgerblue;
@@ -109,6 +113,7 @@ body{
     flex: 1;
     margin: 15px;
 }
+
 /*Styling the #contact section*/
 #contact{
     height: 600px;
@@ -123,6 +128,7 @@ body{
     justify-content: space-evenly;
     margin-top: 100px;
 }
+
 /*Styling the footer of the page*/
 #footer{
     text-align: center;
